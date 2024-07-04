@@ -9,7 +9,7 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>java17-junit5-quickstart</artifactId>
+    <artifactId>java21-junit5-quickstart</artifactId>
     <packaging>maven-archetype</packaging>
 
     <build>

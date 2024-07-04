@@ -41,3 +41,11 @@ buildNumber.properties
 *.iml
 out
 gen
+
+# Eclipse specific files/directories #
+######################################
+.classpath
+.project
+.settings
+.metadata
+

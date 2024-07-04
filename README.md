@@ -6,6 +6,6 @@ mvn install
 ```
 mvn archetype:generate                           \
   -DarchetypeGroupId=io.prokobit                 \
-  -DarchetypeArtifactId=java17-junit5-quickstart \
+  -DarchetypeArtifactId=java21-junit5-quickstart \
   -DarchetypeVersion=1.0.0
 ```
